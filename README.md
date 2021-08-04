@@ -43,13 +43,9 @@ IDE : eclipse
 
 
 
-
-
 - 로그인
 
 ![02_로그인](https://user-images.githubusercontent.com/83326164/127779655-f4cc74df-54ad-43f7-8caf-d201d13813a8.jpg)
-
-
 
 
 
@@ -59,13 +55,9 @@ IDE : eclipse
 
 
 
-
-
 - 게시글 목록
 
 ![04_게시글 목록](https://user-images.githubusercontent.com/83326164/127779658-7bdd511b-1474-4bad-8791-2670871f74b4.jpg)
-
-
 
 
 
@@ -75,13 +67,9 @@ IDE : eclipse
 
 
 
-
-
 - 게시글 조회
 
 ![06_게시글 조회](https://user-images.githubusercontent.com/83326164/127779663-d5651485-2880-4df2-b493-f625a076e9ce.jpg)
-
-
 
 
 
@@ -91,13 +79,9 @@ IDE : eclipse
 
 
 
-
-
 - 파일 업로드
 
 ![08_파일 업로드](https://user-images.githubusercontent.com/83326164/127779665-e6acabb3-299e-4101-b158-3ebbe12286d8.jpg)
-
-
 
 
 
