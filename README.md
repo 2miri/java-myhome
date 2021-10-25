@@ -30,6 +30,8 @@ Java + html, js, jsp, servlet 등을 활용하여 동적 홈페이지를 구상�
 JDK 1.8
 
 IDE : eclipse
+Maria DB
+
 
 ### [javadoc 참조]( https://2miri.github.io/java-myhome/doc/index.html )
 
